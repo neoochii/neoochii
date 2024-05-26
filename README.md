@@ -25,42 +25,30 @@
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-<h3 align="left">Languages and Tools:</h3>
 
-[![](https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C)](#)
-[![](https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C)](#)
-[![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#)
-[![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#)
-[![](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3)](#)
-[![](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)](#)
-[![](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)](#)
-[![](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=React)](#)
-[![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#)
-[![](https://img.shields.io/badge/Django--092E20?style=for-the-badge&logo=Django)](#)
-[![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#)
-[![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#)
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
+<h3 align="left">Devops:</h3>
+<p> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+</p>
 
 
 
 <hr>
+
 <p align="center">
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+    
+
+<div style="display: flex; flex-direction: row;">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=neoochii&show_icons=true&theme=radical&hide_border=true" />
+    <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=neoochii&theme=radical&hide_border=true" />
+</div>
 
 
+[![neoochii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neoochii&theme=high-contrast)](https://github.com/neoochii/github-readme-activity-graph)
 
-
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=neoochii&&theme=dark&show_icons=true)](https://git.io/streak-stats" />
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
-
-<!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) -->
-
-
-[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neoochii&theme=high-contrast)](https://github.com/neoochii/github-readme-activity-graph)
 
 
 
