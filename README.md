@@ -40,10 +40,11 @@
 <p align="center">
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
     
-
-<div style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=neoochii&show_icons=true&theme=radical&hide_border=true" />
-    <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=neoochii&theme=radical&hide_border=true" />
+<div class='container'>
+    <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=neoochii&show_icons=true&theme=radical" />
+    &nbsp;
+    &nbsp;
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=neoochii&theme=radical&layout=compact" /></div>
 </div>
 
 
