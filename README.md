@@ -50,6 +50,6 @@
 
 [![neoochii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neoochii&theme=high-contrast)](https://github.com/neoochii/github-readme-activity-graph)
 
-&hide_border=true
+
 
 
