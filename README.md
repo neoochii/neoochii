@@ -13,10 +13,7 @@
     <a href="https://twitter.com/neoochii">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/neoochii/practice">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-0F2B3C?style=for-the-badge&logo=GeeksforGeeks" alt="gfg Badge"/>
-    </a>
-    <a href="https://www.hackerrank.com/neoochii">
+    <a href="https://leetcode.com/u/neoochii/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
     </a>
     <a href="https://neoochii.online/">
