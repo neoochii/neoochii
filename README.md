@@ -16,7 +16,7 @@
     <a href="https://leetcode.com/u/neoochii/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
     </a>
-    <a href="https://neoochii.online/">
+    <a href="https://portfolio.neoochii.online/">
         <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="portfolio Badge"/>
     </a>
  
